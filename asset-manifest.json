@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/trocafone-handbook/static/css/main.02e65d87.chunk.css",
-    "main.js": "/trocafone-handbook/static/js/main.41ddbecd.chunk.js",
-    "main.js.map": "/trocafone-handbook/static/js/main.41ddbecd.chunk.js.map",
+    "main.js": "/trocafone-handbook/static/js/main.f2552ea9.chunk.js",
+    "main.js.map": "/trocafone-handbook/static/js/main.f2552ea9.chunk.js.map",
     "runtime-main.js": "/trocafone-handbook/static/js/runtime-main.a869b62b.js",
     "runtime-main.js.map": "/trocafone-handbook/static/js/runtime-main.a869b62b.js.map",
-    "static/js/2.165be3d0.chunk.js": "/trocafone-handbook/static/js/2.165be3d0.chunk.js",
-    "static/js/2.165be3d0.chunk.js.map": "/trocafone-handbook/static/js/2.165be3d0.chunk.js.map",
+    "static/js/2.1cf6c7c1.chunk.js": "/trocafone-handbook/static/js/2.1cf6c7c1.chunk.js",
+    "static/js/2.1cf6c7c1.chunk.js.map": "/trocafone-handbook/static/js/2.1cf6c7c1.chunk.js.map",
     "index.html": "/trocafone-handbook/index.html",
     "static/css/main.02e65d87.chunk.css.map": "/trocafone-handbook/static/css/main.02e65d87.chunk.css.map",
-    "static/js/2.165be3d0.chunk.js.LICENSE.txt": "/trocafone-handbook/static/js/2.165be3d0.chunk.js.LICENSE.txt"
+    "static/js/2.1cf6c7c1.chunk.js.LICENSE.txt": "/trocafone-handbook/static/js/2.1cf6c7c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a869b62b.js",
-    "static/js/2.165be3d0.chunk.js",
+    "static/js/2.1cf6c7c1.chunk.js",
     "static/css/main.02e65d87.chunk.css",
-    "static/js/main.41ddbecd.chunk.js"
+    "static/js/main.f2552ea9.chunk.js"
   ]
 }
