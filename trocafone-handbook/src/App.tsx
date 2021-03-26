@@ -4,10 +4,11 @@ import Home from "./components/home"
 import About from "./components/about"
 import Values from "./components/values"
 import Navigation from './components/menu/index';
+import { AppContainer } from './AppStyles';
 
 const App = () => {
   return (
-    <div className="App">
+    <AppContainer>
       <Router>
         <Navigation />
         <Switch>
@@ -16,7 +17,7 @@ const App = () => {
           <Route path="/trocafone-handbook/values" component={Values} />
         </Switch>
       </Router>
-    </div>
+    </AppContainer>
   );
 }
 
