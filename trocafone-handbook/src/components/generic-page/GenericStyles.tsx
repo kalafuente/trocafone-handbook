@@ -24,4 +24,5 @@ export const Subtitle = styled.h2`
 export const Text = styled.p`
     display: block;
     font-size: 20px;
+    line-height: 1.5em;
 `
