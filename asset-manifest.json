@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/trocafone-handbook/static/css/main.02e65d87.chunk.css",
-    "main.js": "/trocafone-handbook/static/js/main.a8b974cc.chunk.js",
-    "main.js.map": "/trocafone-handbook/static/js/main.a8b974cc.chunk.js.map",
+    "main.js": "/trocafone-handbook/static/js/main.9cd6c30a.chunk.js",
+    "main.js.map": "/trocafone-handbook/static/js/main.9cd6c30a.chunk.js.map",
     "runtime-main.js": "/trocafone-handbook/static/js/runtime-main.a869b62b.js",
     "runtime-main.js.map": "/trocafone-handbook/static/js/runtime-main.a869b62b.js.map",
     "static/js/2.165be3d0.chunk.js": "/trocafone-handbook/static/js/2.165be3d0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a869b62b.js",
     "static/js/2.165be3d0.chunk.js",
     "static/css/main.02e65d87.chunk.css",
-    "static/js/main.a8b974cc.chunk.js"
+    "static/js/main.9cd6c30a.chunk.js"
   ]
 }
