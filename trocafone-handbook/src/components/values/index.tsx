@@ -24,7 +24,20 @@ const Values: React.FunctionComponent<{}> = ({ }) => {
                     </Text>
                 </DescriptionContainer>
             </Item>
-
+            <Item>
+                <DescriptionContainer>
+                    <Title>
+                        Actividades
+                     </Title>
+                    <Text>
+                        <strong>All-hands</strong>:reuniones periódicas para presentar los números y las novedades de la empresa y los siguientes proyectos <br></br><br></br>
+                        <strong>Hackathon:</strong> un día dedicado para probar nuevas tecnologías, trabajar con otros equipos y desarrollar proyectos que no tienen relación con sus tareas cotidianas.<br></br><br></br>
+                        <strong>Troca Talks:</strong> Es un espacio en el que cualquiera puede presentar una charla para todo el equipo (por ahora, solo de Argentina) sobre un tema sin ninguna restricción.<br></br><br></br>
+                        <strong>Team buildings:</strong> eventos propuestos por el equipo de People Care con la intención de generar una mejor integración de los equipos en este momento de virtualidad.<br></br><br></br>
+                        <strong>Ask Anyone Anything:</strong> los viernes cerramos la semana con una juntada virtual, una oportunidad para la integración de todo el equipo.<br></br><br></br>
+                    </Text>
+                </DescriptionContainer>
+            </Item>
         </ItemContainer>
     )
 }
