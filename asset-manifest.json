@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/trocafone-handbook/static/css/main.a617e044.chunk.css",
-    "main.js": "/trocafone-handbook/static/js/main.060f945b.chunk.js",
-    "main.js.map": "/trocafone-handbook/static/js/main.060f945b.chunk.js.map",
+    "main.css": "/trocafone-handbook/static/css/main.70e5313f.chunk.css",
+    "main.js": "/trocafone-handbook/static/js/main.891ee7e2.chunk.js",
+    "main.js.map": "/trocafone-handbook/static/js/main.891ee7e2.chunk.js.map",
     "runtime-main.js": "/trocafone-handbook/static/js/runtime-main.a869b62b.js",
     "runtime-main.js.map": "/trocafone-handbook/static/js/runtime-main.a869b62b.js.map",
-    "static/js/2.24b8d2ae.chunk.js": "/trocafone-handbook/static/js/2.24b8d2ae.chunk.js",
-    "static/js/2.24b8d2ae.chunk.js.map": "/trocafone-handbook/static/js/2.24b8d2ae.chunk.js.map",
+    "static/js/2.947d0d35.chunk.js": "/trocafone-handbook/static/js/2.947d0d35.chunk.js",
+    "static/js/2.947d0d35.chunk.js.map": "/trocafone-handbook/static/js/2.947d0d35.chunk.js.map",
     "index.html": "/trocafone-handbook/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/trocafone-handbook/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.24b8d2ae.chunk.js.LICENSE.txt": "/trocafone-handbook/static/js/2.24b8d2ae.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/trocafone-handbook/static/media/logo.103b5fa1.svg"
+    "static/css/main.70e5313f.chunk.css.map": "/trocafone-handbook/static/css/main.70e5313f.chunk.css.map",
+    "static/js/2.947d0d35.chunk.js.LICENSE.txt": "/trocafone-handbook/static/js/2.947d0d35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a869b62b.js",
-    "static/js/2.24b8d2ae.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.060f945b.chunk.js"
+    "static/js/2.947d0d35.chunk.js",
+    "static/css/main.70e5313f.chunk.css",
+    "static/js/main.891ee7e2.chunk.js"
   ]
 }
