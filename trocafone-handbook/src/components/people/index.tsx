@@ -4,7 +4,7 @@ import { ItemContainer, Title, Text, Item, DescriptionContainer, Subtitle } from
 const People: React.FunctionComponent<{}> = ({ }) => {
     return (
         <ItemContainer>
-            <Item style={{ height: "400px", backgroundImage: "url(https://d27i7n2isjbnbi.cloudfront.net/careers/photos/103552/normal_photo_1551986818.jpg)" }}></Item>
+            <Item style={{ marginTop: "-68px", height: "400px", backgroundImage: "url(https://d27i7n2isjbnbi.cloudfront.net/careers/photos/103552/normal_photo_1551986818.jpg)" }}></Item>
             <Item style={{ background: "#F6F5F5" }}>
                 <DescriptionContainer>
                     <Title>

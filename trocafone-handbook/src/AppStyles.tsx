@@ -7,4 +7,5 @@ export const AppContainer = styled.div`
   @media (max-width: 768px) {
     padding: 15px;
   }
+  background-color: rgba(169, 206, 255, 0.16);
 `

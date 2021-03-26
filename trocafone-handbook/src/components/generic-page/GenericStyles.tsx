@@ -16,6 +16,7 @@ export const Title = styled.h3`
     display: block;
     margin: 0;
     font-size: 60px;
+    color: #4d649b;
 `
 export const Subtitle = styled.h2`
     font-size: 35px;
