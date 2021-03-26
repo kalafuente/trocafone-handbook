@@ -1,15 +1,14 @@
 import React from 'react'
+import { Item, ItemContainer } from '../generic-page/GenericStyles';
 
-type AboutProps = {
-
-}
-
-const Home: React.FunctionComponent<AboutProps> = ({ }) => {
+const About: React.FunctionComponent<{}> = ({ }) => {
     return (
-        <div>
-            About troca
-        </div>
+        <ItemContainer>
+            <Item>La historia</Item>
+            <Item>Historia</Item>
+            <Item >productos</Item>
+        </ItemContainer>
     )
 }
 
-export default Home
+export default About

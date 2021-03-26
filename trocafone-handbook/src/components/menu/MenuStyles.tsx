@@ -9,10 +9,8 @@ export const MenuContainer = styled.nav`
     }
 
 `
-
 export const SubItem = styled.div`
 `
-
 export const MenuItem = styled.div`
     display:flex;
     justify-content: space-between;
@@ -22,7 +20,6 @@ export const MenuItem = styled.div`
     }
 
 `
-
 export const Image = styled.div`
     width: 250px;
 `
