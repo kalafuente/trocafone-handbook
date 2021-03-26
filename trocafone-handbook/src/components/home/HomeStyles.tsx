@@ -5,17 +5,15 @@ export const Item = styled.nav`
     display: flex;
     align-items: center;
     justify-content: center;
-    border: solid 1px grey;
 `
 
-export const SubItem = styled.nav`
-    height: 300px;
-    border: solid 1px gray;
+export const SubItem = styled.div`
+    height: 270px;
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 `
-
 
 export const MenuItem = styled.div`
 `

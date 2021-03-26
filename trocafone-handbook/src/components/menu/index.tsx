@@ -1,19 +1,19 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import { MenuContainer, MenuItem, SubItem, Image } from './MenuStyles';
+import { MenuContainer, MenuItem, SubItem, Image, LinkStyle } from './MenuStyles';
 
 const Navigation: React.FunctionComponent<{}> = ({ }) => {
     return (
-        <header className="App-header">
+        <header>
             <MenuContainer>
                 <MenuItem>
-                    <Image><Link to="/trocafone-handbook"><img src="https://www.trocafone.com/assets/img/global/common/trocafone.svg" alt="Logo" /></Link></Image>
+                    <Image style={{ marginLeft: "30px" }}><Link to="/trocafone-handbook"><img src="https://www.trocafone.com/assets/img/global/common/trocafone.svg" alt="Logo" /></Link></Image>
                 </MenuItem>
-                <MenuItem>
-                    <SubItem><Link to="/trocafone-handbook/about">Que es T?</Link></SubItem>
-                    <SubItem><Link to="/trocafone-handbook/values">VyC</Link></SubItem>
-                    <SubItem><Link to="/trocafone-handbook/values">Estructura y equipo</Link></SubItem>
-                    <SubItem><Link to="/trocafone-handbook/values">Vida</Link></SubItem>
+                <MenuItem style={{ justifyContent: "space-between" }}>
+                    <SubItem><Link to="/trocafone-handbook/about"><LinkStyle>La Historia</LinkStyle></Link></SubItem>
+                    <SubItem  ><Link to="/trocafone-handbook/values"><LinkStyle>Los Valores</LinkStyle></Link></SubItem>
+                    <SubItem ><Link to="/trocafone-handbook/values"><LinkStyle>La Gente</LinkStyle></Link></SubItem>
+                    <SubItem style={{ marginRight: "60px" }}><Link to="/trocafone-handbook/first-steps"><LinkStyle>Los Primeros Pasos</LinkStyle></Link></SubItem>
                 </MenuItem>
             </MenuContainer>
         </header>

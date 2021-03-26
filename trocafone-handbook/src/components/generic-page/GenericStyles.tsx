@@ -1,14 +1,27 @@
 import styled from 'styled-components'
 
 export const Item = styled.div`
-    height: 400px;
-    width: 100%;
-    border: solid 1px grey;
-    align-items: center;
+    padding: 40px 130px;
     display: flex;
-    justify-content: center;
 `
 export const ItemContainer = styled.div`
     display: flex;
     flex-direction: column;
+`
+export const DescriptionContainer = styled.div`
+    text-align: left;
+    max-width: 1300px;
+`
+export const Title = styled.h3`
+    display: block;
+    margin: 0;
+    font-size: 60px;
+`
+export const Subtitle = styled.h2`
+    font-size: 35px;
+    color: #404040;
+`
+export const Text = styled.p`
+    display: block;
+    font-size: 20px;
 `
